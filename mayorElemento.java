@@ -16,6 +16,7 @@ public int mayorElemento (Pila pila)
 		{
 			resultado = elemento;
 		}
+	pila.apilar(elemento);
 	}
 	
 	
